@@ -5,8 +5,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)     
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
 
 
