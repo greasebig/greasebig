@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=greasebige&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)
 
 
 <!--
