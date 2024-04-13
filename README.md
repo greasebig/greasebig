@@ -1,6 +1,14 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg)
-![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Python.
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:      
+![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)     
+![](https://github-readme-activity-graph.cyclic.app/graph?username=greasebig&theme=dracula)      
+
+
 
 
 <!--
