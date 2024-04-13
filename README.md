@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg)
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)
 
 
