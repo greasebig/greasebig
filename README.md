@@ -33,18 +33,11 @@ Here are some ideas to get you started:
 <tr><td>
 ### 📊 Github Statistics
 
-<table>
-<tr><td align="center" width="55%">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
- </td><td align="top" width="45%">
+
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
 
-</table>
-</td></tr>
-
-
-
-<tr><td>
 ### ✨ Github Activity
     
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
