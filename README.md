@@ -12,8 +12,19 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
 
+### 📊 Github Statistics
+
+<table>
+ </td><td align="top" width="45%">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
+<tr><td align="center" width="55%">
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
+
+</table>
+</td></tr>
+
+
+<tr><td>
 
 
 <!--
