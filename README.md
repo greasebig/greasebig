@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 <tr><td>
-### 📊 Github Statistics
+📊 Github Statistics
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
