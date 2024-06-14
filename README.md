@@ -1,7 +1,10 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;祝您今天愉快!&center=true&size=27">
 </div>
-
+<div>
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=greasebig&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
 ### Hi there 👋
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
