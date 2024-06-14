@@ -12,20 +12,6 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
 
-<tr><td>
-### 📊 Github Statistics
-
-<table>
-<tr><td align="center" width="55%">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
-
- </td><td align="top" width="45%">
-![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
-
-</table>
-</td></tr>
-
-
 
 
 
@@ -43,6 +29,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<tr><td>
+### 📊 Github Statistics
+
+<table>
+<tr><td align="center" width="55%">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
+ </td><td align="top" width="45%">
+![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
+
+</table>
+</td></tr>
+
+
+
 <tr><td>
 ### ✨ Github Activity
     
