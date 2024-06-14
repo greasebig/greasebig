@@ -30,3 +30,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✨ Github Activity
+    
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+
+</td></tr>
+
+
+<tr><td>
+
