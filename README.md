@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨欢迎来到我的空间✨;祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨toma luaka muwendi wuwu✨;Želim vam ugodan dan danas!&center=true&size=27">
 </div>
 <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
