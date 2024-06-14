@@ -35,12 +35,11 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
 
 </td></tr>
 
-### ✨ Github Activity
+✨ Github Activity
     
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
