@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨here✨;Калаючы вам прыемны дзень сёння!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨西南✨;Калаючы вам прыемны дзень сёння!&center=true&size=27">
 </div>
 <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
