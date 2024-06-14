@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
 
+</td></tr>
+
 ### ✨ Github Activity
     
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
