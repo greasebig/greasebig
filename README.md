@@ -13,9 +13,6 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <!--
 **greasebig/greasebig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +47,8 @@ Here are some ideas to get you started:
 
 <tr><td>
 </table>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
