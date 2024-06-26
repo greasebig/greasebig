@@ -1,6 +1,9 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨西南✨;思索!&center=true&size=27">
 </div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=greasebig&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -49,6 +52,5 @@ Here are some ideas to get you started:
 </table>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/greasebig/greasebig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
