@@ -50,6 +50,27 @@ Here are some ideas to get you started:
 <tr><td>
 </table>
 
+### what I'm doing ⚡
+
+image variation train result        
+
+![alt text](assets/README/唯秘图片_20241008101418.png)
+
+pose driven image variation train result     
+
+![alt text](assets/README/唯秘图片_20241008101432.png)
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 
