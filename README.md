@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <tr><td>
 </table>
 
-### what I'm doing ⚡
+### what I'm doing 😄
 
 image variation train result        
 
@@ -72,5 +72,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Activity 🤔
 
+![Alt](https://repobeats.axiom.co/api/embed/7b5972ec9e48b65dbafd21d09e82637186ca5467.svg "Repobeats analytics image")
 
