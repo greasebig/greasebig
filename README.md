@@ -52,13 +52,19 @@ Here are some ideas to get you started:
 
 ### what I'm doing 😄
 
-image variation train result        
+#### image variation train result        
 
 ![alt text](assets/README/唯秘图片_20241008101418.png)
 
-pose driven image variation train result     
+#### pose driven image variation train result     
 
 ![alt text](assets/README/唯秘图片_20241008101432.png)
+
+
+#### animate 
+(the fourth colume is base model, the **fifth** colomn is **optimized model trained by myself**)
+
+![alt text](<assets_picture/README/20241021-235010 00_00_00-00_00_30.gif>)
 
 
 Here are some ideas to get you started:
