@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 #### animate 
-(the fourth colume is base model, the **fifth** colomn is **optimized model trained by me**)
+(the fourth colume is base model, the **fifth** colomn is **optimized model** trained by me)
 
 ![alt text](<assets_picture/README/20241021-235010 00_00_00-00_00_30.gif>)
 
