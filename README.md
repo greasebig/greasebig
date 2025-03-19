@@ -19,8 +19,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.sv
 
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=greasebig)
 
-![Visitor Count](https://githubvisitorstats.com/greasebig)
-
 
 
 
