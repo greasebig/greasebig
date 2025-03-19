@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨西南✨;思索!&center=true&size=27">
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg)
 
 <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
@@ -15,6 +14,14 @@
 - 💬 Ask me about anything related to Python.
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
+
+
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=greasebig)
+
+
+
+
 
 
 <!--
