@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨西南✨;思索!&center=true&size=27">
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg)
 
 <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
