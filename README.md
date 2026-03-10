@@ -62,10 +62,6 @@ Here are some ideas to get you started:
 
 ![alt text](assets/README/唯秘图片_20241008101418.png)
 
-#### pose driven image variation train result     
-
-![alt text](assets/README/唯秘图片_20241008101432.png)
-
 
 #### animate 
 (the fourth column is base model, the **fifth** colomn is **optimized model** trained by me)
