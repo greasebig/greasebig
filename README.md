@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 #### image variation train result        
 
-![alt text](assets/README/唯秘图片_20241008101418.png)
+![alt text](assets/README/20241008.png)
 
 
 #### animate 
