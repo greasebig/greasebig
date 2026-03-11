@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 
 ### what I'm doing 😄
 
-#### image variation train result        
+#### image variation train result (Completed: Oct 2024)       
 
 ![alt text](assets/README/20241008.png)
 
 
-#### animate 
+#### animate (Completed: Nov 2024)     
 (the fourth column is base model, the **fifth** colomn is **optimized model** trained by me)
 
 ![alt text](<assets_picture/README/20241021-235010 00_00_00-00_00_30.gif>)
