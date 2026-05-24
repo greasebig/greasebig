@@ -2,85 +2,66 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨西南✨;思索!&center=true&size=27">
 </div>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=greasebig&label=Profile+Views&color=6366f1&style=flat" alt="views" />
+    <img src="https://img.shields.io/badge/Focus-CV%20%7C%20GenAI%20%7C%20Video-6366f1" alt="focus" />
+</p>
 
-<div>
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=greasebig&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
+---
 
-### Hi there 👋
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python.
+### 👋 About
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/greasebig/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:      
+- 🔭 Working on **computer vision, generative AI, and video understanding**
+- 🌱 Always learning — from foundation models to agent engineering
+- 💬 Ask me about **Python, diffusion models, video editing, arXiv paper tracking**
 
+---
 
+### 🌐 Websites
 
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=greasebig)
+| Site | Description |
+|---|---|
+| 🏠 **[greasebig.github.io](https://greasebig.github.io)** | Personal homepage — projects, articles, and links |
+| 📚 **[Papers Hub](https://greasebig.github.io/daily-video-papers/)** | Daily arXiv paper tracker — Video, World Models, Agents & Tone/Color |
+| 🎨 **[Tone & Color](https://greasebig.github.io/daily-video-papers/tone-color/index.html)** | Color grading, tone mapping, cinematic color theory papers |
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<!--
-**greasebig/greasebig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="activity graph" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 What I'm Working On
 
-<tr><td>
-📊 Github Statistics
+#### Image Variation — Training Result *(Completed: Oct 2024)*
 
+<p align="center">
+    <img src="assets/README/20241008.png" width="80%" alt="image variation" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=transparent)      
+#### Animation *(Completed: Nov 2024)*
 
-</td></tr>
+*The fourth column is the base model, the **fifth** column is the **optimized model** trained by me.*
 
-✨ Github Activity
-    
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<p align="center">
+    <img src="assets_picture/README/20241021-235010 00_00_00-00_00_30.gif" width="80%" alt="animation" />
+</p>
 
-</td></tr>
+---
 
+### 📈 Repository Activity
 
-<tr><td>
-</table>
+![Repobeats](https://repobeats.axiom.co/api/embed/7b5972ec9e48b65dbafd21d09e82637186ca5467.svg "Repobeats analytics")
 
-### what I'm doing 😄
-
-#### image variation train result (Completed: Oct 2024)       
-
-![alt text](assets/README/20241008.png)
-
-
-#### animate (Completed: Nov 2024)     
-(the fourth column is base model, the **fifth** colomn is **optimized model** trained by me)
-
-![alt text](<assets_picture/README/20241021-235010 00_00_00-00_00_30.gif>)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Activity 🤔
-
-![Alt](https://repobeats.axiom.co/api/embed/7b5972ec9e48b65dbafd21d09e82637186ca5467.svg "Repobeats analytics image")
-
+<p align="center">
+    <sub>You are my <img src="https://profile-counter.glitch.me/greasebig/count.svg" height="20" /> visitor — thank you! 😊</sub>
+</p>
