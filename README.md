@@ -37,6 +37,7 @@
 |---|---|
 | 📰 **[Daily Video Papers](https://github.com/greasebig/daily-video-papers)** | Automated arXiv paper tracking hub for Video, World Models, Agents & Tone/Color research |
 | 🔧 **[harness-poc](https://github.com/greasebig/harness-poc)** | Minimal Agent Harness POC — Agent = Model + Harness (~300 lines Python) |
+| 🤖 **[awesome-agent-everything](https://github.com/greasebig/awesome-agent-everything)** | Meta-index of ALL awesome agent repos on GitHub — Auto-updated every 3 days |
 | 👗 **[cloth-match](https://github.com/greasebig/cloth-match-main)** | Efficient cloth matching system |
 | 🎯 **[multimodal](https://github.com/greasebig/multimodal)** | Multimodal learning |
 | 🚁 **[uav-dispatch](https://github.com/greasebig/uav-dispatch-platform)** | UAV dispatch platform |
