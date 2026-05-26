@@ -27,6 +27,7 @@
 | 🏠 **[greasebig.github.io](https://greasebig.github.io)** | Personal homepage — projects, articles, and links |
 | 📚 **[Papers Hub](https://greasebig.github.io/daily-video-papers/)** | Daily arXiv paper tracker — Video, World Models, Agents & Tone/Color |
 | 🎨 **[Tone & Color](https://greasebig.github.io/daily-video-papers/tone-color/index.html)** | Color grading, tone mapping, cinematic color theory papers |
+| 🤖 **[Agent Index](https://greasebig.github.io/awesome-agent-everything/)** | Meta-index of ALL awesome agent repos — frameworks, skills, papers, MCP & more |
 
 ---
 
