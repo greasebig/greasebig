@@ -22,12 +22,37 @@
 
 ### 🌐 Websites
 
-| Site | Description |
-|---|---|
-| 🏠 **[greasebig.github.io](https://greasebig.github.io)** | Personal homepage — projects, articles, and links |
-| 📚 **[Papers Hub](https://greasebig.github.io/daily-video-papers/)** | Daily arXiv paper tracker — Video, World Models, Agents & Tone/Color |
-| 🎨 **[Tone & Color](https://greasebig.github.io/daily-video-papers/tone-color/index.html)** | Color grading, tone mapping, cinematic color theory papers |
-| 🤖 **[Agent Index](https://greasebig.github.io/awesome-agent-everything/)** | Meta-index of ALL awesome agent repos — frameworks, skills, papers, MCP & more |
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://greasebig.github.io">
+        <img src="assets/vortex.gif" width="280" height="180" alt="Personal Homepage" />
+      </a>
+      <br/>
+      <a href="https://greasebig.github.io"><b>🏠 greasebig.github.io</b></a>
+      <br/>
+      <sub>Projects, articles & links</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://greasebig.github.io/daily-video-papers/">
+        <img src="assets/papers.gif" width="280" height="180" alt="Papers Hub" />
+      </a>
+      <br/>
+      <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a>
+      <br/>
+      <sub>Daily arXiv paper tracker</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://greasebig.github.io/awesome-agent-everything/">
+        <img src="assets/network.gif" width="280" height="180" alt="Agent Index" />
+      </a>
+      <br/>
+      <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
+      <br/>
+      <sub>Meta-index of agent repos</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,11 +86,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true&height=165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="activity graph" />
 </p>
 
 ---
