@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=180&section=header&text=greasebig&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Vision%20%7C%20Generative%20AI%20%7C%20Video&descSize=18&descAlignY=52" alt="header" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision;Generative+AI;Video+Understanding&center=true&size=24&color=6366F1&width=500&height=50" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=greasebig&label=Profile+Views&color=6366f1&style=flat" alt="views" />
@@ -6,8 +10,7 @@
   <img src="https://img.shields.io/badge/Open-To%20Collaborate-success" alt="collaborate" />
 </p>
 
-<table width="100%" cellspacing="0" cellpadding="30" border="0">
-<tr><td bgcolor="#0d1117">
+---
 
 <table width="100%" cellspacing="20" cellpadding="10" border="0">
   <tr>
@@ -74,12 +77,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=github-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&icon_color=6366f1" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=github-dark&hide_border=true&height=165&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&icon_color=6366f1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true&height=165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=6366f1" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -110,6 +113,6 @@
   <sub>You are my <img src="https://profile-counter.glitch.me/greasebig/count.svg" height="20" /> visitor — thank you! 😊</sub>
 </p>
 
-</td></tr></table>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=80&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
