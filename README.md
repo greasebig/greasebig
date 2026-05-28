@@ -12,47 +12,21 @@
 
 ---
 
+<a href="https://greasebig.github.io"><img src="assets/vortex.gif" width="32%" alt="Homepage" /></a>
+<a href="https://greasebig.github.io/daily-video-papers/"><img src="assets/papers.gif" width="32%" alt="Papers Hub" /></a>
+<a href="https://greasebig.github.io/awesome-agent-everything/"><img src="assets/network.gif" width="32%" alt="Agent Index" /></a>
+
+<p align="center">
+  <a href="https://greasebig.github.io"><b>🏠 Homepage</b></a> · <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a> · <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
+</p>
+
+---
+
 ### 👋 About
 
 - 🔭 Working on **computer vision, generative AI, and video understanding**
 - 🌱 Always learning — from foundation models to agent engineering
 - 💬 Ask me about **Python, diffusion models, video editing, arXiv paper tracking**
-
----
-
-### 🌐 Websites
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://greasebig.github.io">
-        <img src="assets/vortex.gif" width="280" height="180" alt="Personal Homepage" />
-      </a>
-      <br/>
-      <a href="https://greasebig.github.io"><b>🏠 greasebig.github.io</b></a>
-      <br/>
-      <sub>Projects, articles & links</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://greasebig.github.io/daily-video-papers/">
-        <img src="assets/papers.gif" width="280" height="180" alt="Papers Hub" />
-      </a>
-      <br/>
-      <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a>
-      <br/>
-      <sub>Daily arXiv paper tracker</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://greasebig.github.io/awesome-agent-everything/">
-        <img src="assets/network.gif" width="280" height="180" alt="Agent Index" />
-      </a>
-      <br/>
-      <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
-      <br/>
-      <sub>Meta-index of agent repos</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
