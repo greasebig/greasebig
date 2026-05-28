@@ -1,16 +1,11 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision;Generative+AI;Video+Understanding&center=true&size=24&color=6366F1&width=500&height=50" alt="Typing SVG" />
-
-</div>
+<!-- Header with dynamic gradient animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=180&section=header&text=greasebig&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Vision%20%7C%20Generative%20AI%20%7C%20Video&descSize=18&descAlignY=52" alt="header" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=greasebig&label=Profile+Views&color=6366f1&style=flat" alt="views" />
   <img src="https://img.shields.io/badge/Focus-CV%20%7C%20GenAI%20%7C%20Video-6366f1" alt="focus" />
   <img src="https://img.shields.io/badge/Open-To%20Collaborate-success" alt="collaborate" />
 </p>
-
----
 
 <table width="100%" cellspacing="20" cellpadding="10" border="0">
   <tr>
@@ -115,4 +110,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=80&section=footer" alt="footer" />
