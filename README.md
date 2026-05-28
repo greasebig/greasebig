@@ -12,27 +12,27 @@
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" cellspacing="20" cellpadding="10" border="0">
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://greasebig.github.io">
         <img src="assets/vortex.gif" width="100%" alt="Homepage" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://greasebig.github.io"><b>🏠 Homepage</b></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://greasebig.github.io/daily-video-papers/">
         <img src="assets/papers.gif" width="100%" alt="Papers Hub" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://greasebig.github.io/awesome-agent-everything/">
         <img src="assets/network.gif" width="100%" alt="Agent Index" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
     </td>
   </tr>
