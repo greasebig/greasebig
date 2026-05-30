@@ -12,31 +12,17 @@
 
 ---
 
-<table width="100%" cellspacing="20" cellpadding="10" border="0">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://greasebig.github.io">
-        <img src="assets/vortex.gif" width="100%" alt="Homepage" />
-      </a>
-      <br/><br/>
-      <a href="https://greasebig.github.io"><b>🏠 Homepage</b></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://greasebig.github.io/daily-video-papers/">
-        <img src="assets/papers.gif" width="100%" alt="Papers Hub" />
-      </a>
-      <br/><br/>
-      <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://greasebig.github.io/awesome-agent-everything/">
-        <img src="assets/network.gif" width="100%" alt="Agent Index" />
-      </a>
-      <br/><br/>
-      <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Three entry points for my work: portfolio, daily research signals, and agent ecosystem indexing.</sub>
+</p>
+
+<p align="center">
+  <a href="https://greasebig.github.io"><b>🏠 Homepage</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://greasebig.github.io/daily-video-papers/"><b>📚 Papers Hub</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://greasebig.github.io/awesome-agent-everything/"><b>🤖 Agent Index</b></a>
+</p>
 
 ---
 
@@ -111,6 +97,24 @@
 
 <p align="center">
   <sub>You are my <img src="https://profile-counter.glitch.me/greasebig/count.svg" height="20" /> visitor — thank you! 😊</sub>
+</p>
+
+---
+
+### 🎬 Site Previews
+
+<p align="center">
+  <a href="https://greasebig.github.io">
+    <img src="assets/vortex.gif" width="30%" alt="Homepage preview" />
+  </a>
+  &nbsp;
+  <a href="https://greasebig.github.io/daily-video-papers/">
+    <img src="assets/papers.gif" width="30%" alt="Papers Hub preview" />
+  </a>
+  &nbsp;
+  <a href="https://greasebig.github.io/awesome-agent-everything/">
+    <img src="assets/network.gif" width="30%" alt="Agent Index preview" />
+  </a>
 </p>
 
 ---
