@@ -105,15 +105,15 @@
 
 <p align="center">
   <a href="https://greasebig.github.io">
-    <img src="assets/vortex.gif" width="30%" alt="Homepage preview" />
+    <img src="assets/vortex-preview.gif" width="30%" alt="Homepage preview" />
   </a>
   &nbsp;
   <a href="https://greasebig.github.io/daily-video-papers/">
-    <img src="assets/papers.gif" width="30%" alt="Papers Hub preview" />
+    <img src="assets/papers-preview.gif" width="30%" alt="Papers Hub preview" />
   </a>
   &nbsp;
   <a href="https://greasebig.github.io/awesome-agent-everything/">
-    <img src="assets/network.gif" width="30%" alt="Agent Index preview" />
+    <img src="assets/network-preview.gif" width="30%" alt="Agent Index preview" />
   </a>
 </p>
 
