@@ -19,13 +19,6 @@
   <a href="https://greasebig.github.io"><img src="https://img.shields.io/badge/Web-greasebig.github.io-ec4899?logo=github&style=flat" alt="greasebig personal website" /></a>
 </p>
 
-<!-- Snake animation contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
-  <img alt="github-snake contribution animation" src="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
-</picture>
-
 ---
 
 <p align="center">
@@ -61,7 +54,7 @@
 - 🔭 Researching **computer vision, generative AI, video understanding & AI agent engineering**
 - 🌱 Exploring **foundation models, diffusion models, Harness Engineering, MCP/A2A/ACP protocols**
 - 💬 Ask me about **Python, PyTorch, video editing, arXiv paper tracking, Agent infrastructure**
-- ✍️ Author of [Claw Runtime & Agent Ecosystem 2026](https://greasebig.github.io/articles/claw-runtime.html), [Harness Engineering](https://greasebig.github.io/articles/harness-engineering.html), and [Harness POC](https://greasebig.github.io/articles/harness-poc.html)
+- ✍️ Author of [Claw Runtime & Agent Ecosystem 2026](https://greasebig.github.io/articles/claw-runtime.html), [Harness Engineering](https://greasebig.github.io/articles/harness-engineering.html), [Harness POC](https://greasebig.github.io/articles/harness-poc.html), and [MCP Deep Dive](https://greasebig.github.io/articles/mcp-deep-dive.html)
 
 ---
 
@@ -92,23 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=ec4899" height="165" alt="greasebig GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true&height=165&langs_count=8" alt="greasebig top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=greasebig&theme=tokyonight&hide_border=true&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="greasebig GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="greasebig contribution activity graph" />
-</p>
-
----
-
 ### 🎨 What I'm Working On
 
 #### Image Variation — Training Result *(Completed: Oct 2024)*
@@ -123,16 +99,6 @@
 
 <p align="center">
   <img src="assets_picture/README/20241021-235010 00_00_00-00_00_30.gif" width="80%" alt="Animation training result — optimized model comparison" />
-</p>
-
----
-
-### 📈 Repository Activity
-
-![Repobeats](https://repobeats.axiom.co/api/embed/7b5972ec9e48b65dbafd21d09e82637186ca5467.svg "Repobeats analytics")
-
-<p align="center">
-  <sub>You are my <img src="https://profile-counter.glitch.me/greasebig/count.svg" height="20" /> visitor — thank you! 😊</sub>
 </p>
 
 ---
@@ -155,16 +121,6 @@
 
 ---
 
-<!-- Cool footer effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
-
-<!-- Quote rotator -->
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)
-
-</div>
-
 <!-- Skills / Tech Stack badges -->
 <div align="center">
 
@@ -177,12 +133,38 @@
 
 </div>
 
-<br/>
+---
 
+### 📊 GitHub Stats & Activity
+
+<!-- Snake animation contribution graph (requires output branch) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
+  <img alt="github-snake contribution animation" src="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=greasebig&theme=tokyonight&hide_border=true&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="greasebig GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="greasebig contribution activity graph" />
+</p>
+
+<p align="center">
+  <sub>You are my <img src="https://komarev.com/ghpvc/?username=greasebig&label=Visitor&color=6366f1&style=flat" height="20" /> — thank you! 😊</sub>
+</p>
+
+---
+
+<!-- Cool footer effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
+
+<!-- Quote -->
 <div align="center">
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=greasebig&theme=onestar&column=7&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)
 
 </div>
 
