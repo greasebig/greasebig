@@ -135,15 +135,13 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 💬 Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&text_color=c9d1d9" alt="greasebig GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="greasebig top languages" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)
+
+</div>
 
 <p align="center">
   <sub>You are my <img src="https://komarev.com/ghpvc/?username=greasebig&label=Visitor&color=6366f1&style=flat" height="20" /> — thank you! 😊</sub>
@@ -153,13 +151,6 @@
 
 <!-- Cool footer effects -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
-
-<!-- Quote -->
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)
-
-</div>
 
 <br/>
 
