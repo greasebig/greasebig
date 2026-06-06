@@ -137,19 +137,12 @@
 
 ### 📊 GitHub Stats & Activity
 
-<!-- Snake animation contribution graph (requires output branch) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
-  <img alt="github-snake contribution animation" src="https://raw.githubusercontent.com/greasebig/greasebig/output/github-snake.svg" />
-</picture>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=greasebig&theme=tokyonight&hide_border=true&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="greasebig GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greasebig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&text_color=c9d1d9" alt="greasebig GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greasebig&theme=github-compact&custom_title=Contribution+Activity&radius=8&height=250&hide_border=true" alt="greasebig contribution activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greasebig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="greasebig top languages" />
 </p>
 
 <p align="center">
