@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=greasebig&label=Profile+Views&color=6366f1&style=flat" alt="greasebig GitHub profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgreasebig&label=Detailed+Views&countColor=%236366f1&style=flat" alt="Visitor Badge detailed views" />
   <img src="https://img.shields.io/badge/Focus-CV%20%7C%20GenAI%20%7C%20Video-6366f1" alt="Research focus: Computer Vision, Generative AI, Video Understanding" />
   <img src="https://img.shields.io/badge/Open-To%20Collaborate-success" alt="Open to collaborate" />
   <a href="https://greasebig.github.io"><img src="https://img.shields.io/badge/Web-greasebig.github.io-ec4899?logo=github&style=flat" alt="greasebig personal website" /></a>
